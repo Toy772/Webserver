@@ -1,3 +1,5 @@
 /node_modules
 /lib
 /Outras_
+/firebase-adiminSDK.json
+/.env
